@@ -1,0 +1,7 @@
+dependencies: \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAppCredentialManager.m \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAppCredentialManager.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAppCredential.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthGlobalWorkQueue.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthKeychain.h

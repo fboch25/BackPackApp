@@ -1,0 +1,10 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "ed61991025246505c4baac5c05d3d0dc"
+build_time: [1544147853, 653719000]
+inputs:
+  "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/BackPackApp/MapViewController.swift": [1544146466, 0]
+  "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/BackPackApp/GearItem.swift": [1544144319, 0]
+  "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/BackPackApp/User.swift": [1544144552, 0]
+  "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/BackPackApp/AppDelegate.swift": [1543876421, 0]
+  "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/BackPackApp/GearListTableViewController.swift": [1544145796, 0]
+  "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/BackPackApp/StoreViewController.swift": [1544147853, 0]

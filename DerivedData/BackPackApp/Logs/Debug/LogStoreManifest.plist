@@ -5,6 +5,471 @@
 	<key>logFormatVersion</key>
 	<integer>9</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>303875F8-9807-4755-A7F7-5D231F59ED1C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>303875F8-9807-4755-A7F7-5D231F59ED1C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565838730.01420999</real>
+			<key>timeStoppedRecording</key>
+			<real>565838766.82769203</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>303875F8-9807-4755-A7F7-5D231F59ED1C</string>
+		</dict>
+		<key>45E947C5-9569-450C-91D7-631B02281C57</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>45E947C5-9569-450C-91D7-631B02281C57.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565838103.37983501</real>
+			<key>timeStoppedRecording</key>
+			<real>565838596.49023795</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>45E947C5-9569-450C-91D7-631B02281C57</string>
+		</dict>
+		<key>5AB4D647-E287-4308-B36A-316B636CB363</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5AB4D647-E287-4308-B36A-316B636CB363.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565840656.33931196</real>
+			<key>timeStoppedRecording</key>
+			<real>565840980.71040595</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5AB4D647-E287-4308-B36A-316B636CB363</string>
+		</dict>
+		<key>5C18B5C6-9C2C-48A6-94FD-16B9EAB5FBCA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>5C18B5C6-9C2C-48A6-94FD-16B9EAB5FBCA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565839269.39656603</real>
+			<key>timeStoppedRecording</key>
+			<real>565839300.07009196</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>5C18B5C6-9C2C-48A6-94FD-16B9EAB5FBCA</string>
+		</dict>
+		<key>65325158-BDBA-42E4-A905-141F4121D99B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65325158-BDBA-42E4-A905-141F4121D99B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565839472.06122506</real>
+			<key>timeStoppedRecording</key>
+			<real>565839474.90164804</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>65325158-BDBA-42E4-A905-141F4121D99B</string>
+		</dict>
+		<key>764527E0-A614-40B5-A153-DC5E0F88E4DA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>764527E0-A614-40B5-A153-DC5E0F88E4DA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565839206.32480097</real>
+			<key>timeStoppedRecording</key>
+			<real>565839266.957008</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>764527E0-A614-40B5-A153-DC5E0F88E4DA</string>
+		</dict>
+		<key>7C1259B1-6517-43A9-A4C1-7CEFB6D6FB8C</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7C1259B1-6517-43A9-A4C1-7CEFB6D6FB8C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565840626.44337106</real>
+			<key>timeStoppedRecording</key>
+			<real>565840653.80120301</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>7C1259B1-6517-43A9-A4C1-7CEFB6D6FB8C</string>
+		</dict>
+		<key>85D17294-A435-4CDF-B55E-A30BD3979BBF</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>85D17294-A435-4CDF-B55E-A30BD3979BBF.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565838600.97057104</real>
+			<key>timeStoppedRecording</key>
+			<real>565838701.42818701</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>85D17294-A435-4CDF-B55E-A30BD3979BBF</string>
+		</dict>
+		<key>94854746-03C8-4901-BA7B-3E84E62DBB11</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>94854746-03C8-4901-BA7B-3E84E62DBB11.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565838702.62613702</real>
+			<key>timeStoppedRecording</key>
+			<real>565838729.05276299</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>94854746-03C8-4901-BA7B-3E84E62DBB11</string>
+		</dict>
+		<key>A660E8DB-B78E-4154-8B2B-35539A5B34DE</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A660E8DB-B78E-4154-8B2B-35539A5B34DE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565839698.83804905</real>
+			<key>timeStoppedRecording</key>
+			<real>565840621.73087299</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A660E8DB-B78E-4154-8B2B-35539A5B34DE</string>
+		</dict>
+		<key>A6F25B16-75C4-42BD-9A93-1C789B717870</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A6F25B16-75C4-42BD-9A93-1C789B717870.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565839583.846259</real>
+			<key>timeStoppedRecording</key>
+			<real>565839696.16703904</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>A6F25B16-75C4-42BD-9A93-1C789B717870</string>
+		</dict>
+		<key>BEE0365D-F635-4BDC-9F12-56A5E8FCBA75</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>BEE0365D-F635-4BDC-9F12-56A5E8FCBA75.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565840980.58315098</real>
+			<key>timeStoppedRecording</key>
+			<real>565841791.88735294</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>BEE0365D-F635-4BDC-9F12-56A5E8FCBA75</string>
+		</dict>
+		<key>C9F27697-D0B0-4214-B628-81D0C575490B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>C9F27697-D0B0-4214-B628-81D0C575490B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565838044.38957405</real>
+			<key>timeStoppedRecording</key>
+			<real>565838099.643839</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>C9F27697-D0B0-4214-B628-81D0C575490B</string>
+		</dict>
+		<key>CB26AC51-CF3F-4932-836B-0558A0676EA8</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CB26AC51-CF3F-4932-836B-0558A0676EA8.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565839504.59134698</real>
+			<key>timeStoppedRecording</key>
+			<real>565839520.24461305</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CB26AC51-CF3F-4932-836B-0558A0676EA8</string>
+		</dict>
+		<key>CEB727D9-AAF9-48B2-A517-AA94E10F5F86</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CEB727D9-AAF9-48B2-A517-AA94E10F5F86.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565642543.99375296</real>
+			<key>timeStoppedRecording</key>
+			<real>565723324.77516305</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>CEB727D9-AAF9-48B2-A517-AA94E10F5F86</string>
+		</dict>
+		<key>F33DC00D-BCD9-4B28-A1E9-4EE46BC36CB2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>F33DC00D-BCD9-4B28-A1E9-4EE46BC36CB2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>BackPackApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BackPackApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug BackPackApp</string>
+			<key>timeStartedRecording</key>
+			<real>565839539.97487605</real>
+			<key>timeStoppedRecording</key>
+			<real>565839581.27360404</real>
+			<key>title</key>
+			<string>Debug BackPackApp</string>
+			<key>uniqueIdentifier</key>
+			<string>F33DC00D-BCD9-4B28-A1E9-4EE46BC36CB2</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

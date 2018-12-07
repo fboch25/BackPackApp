@@ -1,0 +1,42 @@
+dependencies: \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/Phone/FIRPhoneAuthProvider.m \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthProvider.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/AuthProviders/Phone/FIRPhoneAuthCredential_Internal.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRPhoneAuthCredential.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthCredential.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAPNSToken.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthAPNSTokenType.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAPNSTokenManager.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAppCredential.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthAppCredentialManager.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthGlobalWorkQueue.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuth_Internal.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuth.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthErrors.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthURLPresenter.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthNotificationManager.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthErrorUtils.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthBackend.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FIRAuthSettings.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/FIRAuthWebUtils.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/Public/FirebaseAuthVersion.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRGetProjectConfigRequest.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRIdentityToolkitRequest.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthRequestConfiguration.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthRPCRequest.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRGetProjectConfigResponse.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRAuthRPCResponse.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRSendVerificationCodeRequest.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRSendVerificationCodeResponse.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRVerifyClientRequest.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAuth/Firebase/Auth/Source/RPCs/FIRVerifyClientResponse.h

@@ -1,0 +1,1261 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "GearListTableViewController"
+provides-nominal:
+- "11BackPackApp27GearListTableViewControllerC"
+provides-member:
+- ["11BackPackApp27GearListTableViewControllerC", ""]
+provides-dynamic-lookup:
+- "addButtonDidTouch"
+- "preferredStatusBarStyle"
+- "tableView"
+- "viewDidLoad"
+depends-top-level:
+- !private "!"
+- !private "=="
+- "AnyObject"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- "FloatLiteralType"
+- "GearItem"
+- "GearListTableViewController"
+- "IndexPath"
+- "Int"
+- "IntegerLiteralType"
+- "StringLiteralType"
+- !private "UIAlertAction"
+- !private "UIAlertController"
+- "UIStatusBarStyle"
+- "UITableView"
+- "UITableViewCell"
+- "UITableViewController"
+- "User"
+depends-member:
+- !private ["So28UITableViewCellAccessoryTypeV", "checkmark"]
+- !private ["So28UITableViewCellAccessoryTypeV", "none"]
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "remove"]
+- !private ["Sa", "subscript"]
+- !private ["s13ArrayProtocolP", "append"]
+- !private ["s13ArrayProtocolP", "count"]
+- !private ["s13ArrayProtocolP", "remove"]
+- !private ["s13ArrayProtocolP", "subscript"]
+- !private ["SK", "append"]
+- !private ["SK", "count"]
+- ["SK", "init"]
+- ["SK", "init"]
+- !private ["SK", "remove"]
+- !private ["SK", "row"]
+- !private ["SK", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["So15CALayerDelegateP", "EditingStyle"]
+- !private ["So15CALayerDelegateP", "accessoryType"]
+- !private ["So15CALayerDelegateP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So15CALayerDelegateP", "cellForRow"]
+- !private ["So15CALayerDelegateP", "dequeueReusableCell"]
+- !private ["So15CALayerDelegateP", "detailTextLabel"]
+- !private ["So15CALayerDelegateP", "reloadData"]
+- !private ["So15CALayerDelegateP", "text"]
+- !private ["So15CALayerDelegateP", "textColor"]
+- !private ["So15CALayerDelegateP", "textLabel"]
+- ["s7CVarArgP", "EditingStyle"]
+- !private ["s7CVarArgP", "GearItem"]
+- !private ["s7CVarArgP", "UIAlertAction"]
+- !private ["s7CVarArgP", "UIAlertController"]
+- !private ["s7CVarArgP", "User"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "accessoryType"]
+- !private ["s7CVarArgP", "addAction"]
+- !private ["s7CVarArgP", "addTextField"]
+- !private ["s7CVarArgP", "allowsMultipleSelectionDuringEditing"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "black"]
+- !private ["s7CVarArgP", "cellForRow"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "dequeueReusableCell"]
+- !private ["s7CVarArgP", "detailTextLabel"]
+- !private ["s7CVarArgP", "gray"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "items"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "reloadData"]
+- !private ["s7CVarArgP", "remove"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "tableView"]
+- !private ["s7CVarArgP", "text"]
+- !private ["s7CVarArgP", "textColor"]
+- !private ["s7CVarArgP", "textFields"]
+- !private ["s7CVarArgP", "textLabel"]
+- !private ["s7CVarArgP", "toggleCellCheckbox"]
+- !private ["s7CVarArgP", "user"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "append"]
+- !private ["Sl", "count"]
+- ["Sl", "init"]
+- ["Sl", "init"]
+- !private ["Sl", "remove"]
+- !private ["Sl", "row"]
+- !private ["Sl", "subscript"]
+- ["SL", "init"]
+- ["SL", "init"]
+- !private ["SL", "row"]
+- ["s28CustomDebugStringConvertibleP", "EditingStyle"]
+- !private ["s28CustomDebugStringConvertibleP", "GearItem"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertAction"]
+- !private ["s28CustomDebugStringConvertibleP", "UIAlertController"]
+- !private ["s28CustomDebugStringConvertibleP", "User"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "accessoryType"]
+- !private ["s28CustomDebugStringConvertibleP", "addAction"]
+- !private ["s28CustomDebugStringConvertibleP", "addTextField"]
+- !private ["s28CustomDebugStringConvertibleP", "allowsMultipleSelectionDuringEditing"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "black"]
+- !private ["s28CustomDebugStringConvertibleP", "cellForRow"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "dequeueReusableCell"]
+- !private ["s28CustomDebugStringConvertibleP", "detailTextLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "email"]
+- !private ["s28CustomDebugStringConvertibleP", "gray"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "items"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "reloadData"]
+- !private ["s28CustomDebugStringConvertibleP", "remove"]
+- !private ["s28CustomDebugStringConvertibleP", "row"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "tableView"]
+- !private ["s28CustomDebugStringConvertibleP", "text"]
+- !private ["s28CustomDebugStringConvertibleP", "textColor"]
+- !private ["s28CustomDebugStringConvertibleP", "textFields"]
+- !private ["s28CustomDebugStringConvertibleP", "textLabel"]
+- !private ["s28CustomDebugStringConvertibleP", "toggleCellCheckbox"]
+- !private ["s28CustomDebugStringConvertibleP", "user"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "allowsMultipleSelectionDuringEditing"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "black"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "email"]
+- !private ["s17CustomReflectableP", "gray"]
+- ["s17CustomReflectableP", "init"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "reloadData"]
+- !private ["s17CustomReflectableP", "remove"]
+- !private ["s17CustomReflectableP", "row"]
+- !private ["s17CustomReflectableP", "subscript"]
+- ["s23CustomStringConvertibleP", "EditingStyle"]
+- !private ["s23CustomStringConvertibleP", "GearItem"]
+- !private ["s23CustomStringConvertibleP", "UIAlertAction"]
+- !private ["s23CustomStringConvertibleP", "UIAlertController"]
+- !private ["s23CustomStringConvertibleP", "User"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "accessoryType"]
+- !private ["s23CustomStringConvertibleP", "addAction"]
+- !private ["s23CustomStringConvertibleP", "addTextField"]
+- !private ["s23CustomStringConvertibleP", "allowsMultipleSelectionDuringEditing"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "black"]
+- !private ["s23CustomStringConvertibleP", "cellForRow"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "dequeueReusableCell"]
+- !private ["s23CustomStringConvertibleP", "detailTextLabel"]
+- !private ["s23CustomStringConvertibleP", "gray"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "items"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "reloadData"]
+- !private ["s23CustomStringConvertibleP", "remove"]
+- !private ["s23CustomStringConvertibleP", "row"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "tableView"]
+- !private ["s23CustomStringConvertibleP", "text"]
+- !private ["s23CustomStringConvertibleP", "textColor"]
+- !private ["s23CustomStringConvertibleP", "textFields"]
+- !private ["s23CustomStringConvertibleP", "textLabel"]
+- !private ["s23CustomStringConvertibleP", "toggleCellCheckbox"]
+- !private ["s23CustomStringConvertibleP", "user"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "allowsMultipleSelectionDuringEditing"]
+- !private ["Se", "append"]
+- !private ["Se", "black"]
+- !private ["Se", "count"]
+- !private ["Se", "email"]
+- !private ["Se", "gray"]
+- ["Se", "init"]
+- ["Se", "init"]
+- !private ["Se", "reloadData"]
+- !private ["Se", "remove"]
+- !private ["Se", "row"]
+- !private ["Se", "subscript"]
+- !private ["So27UITableViewCellEditingStyleV", "delete"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "allowsMultipleSelectionDuringEditing"]
+- !private ["SE", "append"]
+- !private ["SE", "black"]
+- !private ["SE", "count"]
+- !private ["SE", "email"]
+- !private ["SE", "gray"]
+- ["SE", "init"]
+- ["SE", "init"]
+- !private ["SE", "reloadData"]
+- !private ["SE", "remove"]
+- !private ["SE", "row"]
+- !private ["SE", "subscript"]
+- ["SQ", "EditingStyle"]
+- !private ["SQ", "GearItem"]
+- !private ["SQ", "UIAlertAction"]
+- !private ["SQ", "UIAlertController"]
+- !private ["SQ", "User"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "accessoryType"]
+- !private ["SQ", "addAction"]
+- !private ["SQ", "addTextField"]
+- !private ["SQ", "alert"]
+- !private ["SQ", "allowsMultipleSelectionDuringEditing"]
+- !private ["SQ", "append"]
+- !private ["SQ", "black"]
+- !private ["SQ", "cancel"]
+- !private ["SQ", "cellForRow"]
+- !private ["SQ", "checkmark"]
+- !private ["SQ", "count"]
+- !private ["SQ", "default"]
+- !private ["SQ", "delete"]
+- !private ["SQ", "dequeueReusableCell"]
+- !private ["SQ", "detailTextLabel"]
+- !private ["SQ", "email"]
+- !private ["SQ", "gray"]
+- ["SQ", "init"]
+- ["SQ", "init"]
+- !private ["SQ", "items"]
+- !private ["SQ", "lightContent"]
+- !private ["SQ", "none"]
+- !private ["SQ", "present"]
+- !private ["SQ", "reloadData"]
+- !private ["SQ", "remove"]
+- !private ["SQ", "row"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "tableView"]
+- !private ["SQ", "text"]
+- !private ["SQ", "textColor"]
+- !private ["SQ", "textFields"]
+- !private ["SQ", "textLabel"]
+- !private ["SQ", "toggleCellCheckbox"]
+- !private ["SQ", "user"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "remove"]
+- !private ["s25ExpressibleByArrayLiteralP", "row"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- !private ["s23ExpressibleByNilLiteralP", "allowsMultipleSelectionDuringEditing"]
+- !private ["s23ExpressibleByNilLiteralP", "black"]
+- !private ["s23ExpressibleByNilLiteralP", "email"]
+- !private ["s23ExpressibleByNilLiteralP", "gray"]
+- !private ["s23ExpressibleByNilLiteralP", "reloadData"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["11BackPackApp8GearItemV", "addedByUser"]
+- !private ["11BackPackApp8GearItemV", "completed"]
+- !private ["11BackPackApp8GearItemV", "init"]
+- !private ["11BackPackApp8GearItemV", "name"]
+- ["11BackPackApp27GearListTableViewControllerC", "AnyObject"]
+- ["11BackPackApp27GearListTableViewControllerC", "Bool"]
+- ["11BackPackApp27GearListTableViewControllerC", "GearItem"]
+- ["11BackPackApp27GearListTableViewControllerC", "IndexPath"]
+- ["11BackPackApp27GearListTableViewControllerC", "Int"]
+- !private ["11BackPackApp27GearListTableViewControllerC", "UIAlertAction"]
+- !private ["11BackPackApp27GearListTableViewControllerC", "UIAlertController"]
+- ["11BackPackApp27GearListTableViewControllerC", "UIStatusBarStyle"]
+- ["11BackPackApp27GearListTableViewControllerC", "UITableView"]
+- ["11BackPackApp27GearListTableViewControllerC", "UITableViewCell"]
+- ["11BackPackApp27GearListTableViewControllerC", "User"]
+- ["11BackPackApp27GearListTableViewControllerC", "addButtonDidTouch"]
+- !private ["11BackPackApp27GearListTableViewControllerC", "deinit"]
+- ["11BackPackApp27GearListTableViewControllerC", "init"]
+- ["11BackPackApp27GearListTableViewControllerC", "items"]
+- ["11BackPackApp27GearListTableViewControllerC", "listToUsers"]
+- ["11BackPackApp27GearListTableViewControllerC", "preferredStatusBarStyle"]
+- !private ["11BackPackApp27GearListTableViewControllerC", "present"]
+- ["11BackPackApp27GearListTableViewControllerC", "tableView"]
+- ["11BackPackApp27GearListTableViewControllerC", "toggleCellCheckbox"]
+- ["11BackPackApp27GearListTableViewControllerC", "user"]
+- ["11BackPackApp27GearListTableViewControllerC", "viewDidLoad"]
+- ["SH", "EditingStyle"]
+- !private ["SH", "GearItem"]
+- !private ["SH", "UIAlertAction"]
+- !private ["SH", "UIAlertController"]
+- !private ["SH", "User"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "accessoryType"]
+- !private ["SH", "addAction"]
+- !private ["SH", "addTextField"]
+- !private ["SH", "alert"]
+- !private ["SH", "allowsMultipleSelectionDuringEditing"]
+- !private ["SH", "append"]
+- !private ["SH", "black"]
+- !private ["SH", "cancel"]
+- !private ["SH", "cellForRow"]
+- !private ["SH", "checkmark"]
+- !private ["SH", "count"]
+- !private ["SH", "default"]
+- !private ["SH", "delete"]
+- !private ["SH", "dequeueReusableCell"]
+- !private ["SH", "detailTextLabel"]
+- !private ["SH", "email"]
+- !private ["SH", "gray"]
+- ["SH", "init"]
+- ["SH", "init"]
+- !private ["SH", "items"]
+- !private ["SH", "lightContent"]
+- !private ["SH", "none"]
+- !private ["SH", "present"]
+- !private ["SH", "reloadData"]
+- !private ["SH", "remove"]
+- !private ["SH", "row"]
+- !private ["SH", "subscript"]
+- !private ["SH", "tableView"]
+- !private ["SH", "text"]
+- !private ["SH", "textColor"]
+- !private ["SH", "textFields"]
+- !private ["SH", "textLabel"]
+- !private ["SH", "toggleCellCheckbox"]
+- !private ["SH", "user"]
+- !private ["SH", "viewDidLoad"]
+- !private ["10Foundation9IndexPathV", "row"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["SM", "append"]
+- !private ["SM", "count"]
+- !private ["SM", "remove"]
+- !private ["SM", "row"]
+- !private ["SM", "subscript"]
+- ["So8NSCodingP", "EditingStyle"]
+- !private ["So8NSCodingP", "GearItem"]
+- !private ["So8NSCodingP", "UIAlertAction"]
+- !private ["So8NSCodingP", "UIAlertController"]
+- !private ["So8NSCodingP", "User"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "accessoryType"]
+- !private ["So8NSCodingP", "addAction"]
+- !private ["So8NSCodingP", "addTextField"]
+- !private ["So8NSCodingP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So8NSCodingP", "black"]
+- !private ["So8NSCodingP", "cellForRow"]
+- !private ["So8NSCodingP", "dequeueReusableCell"]
+- !private ["So8NSCodingP", "detailTextLabel"]
+- !private ["So8NSCodingP", "gray"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "items"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "reloadData"]
+- !private ["So8NSCodingP", "tableView"]
+- !private ["So8NSCodingP", "text"]
+- !private ["So8NSCodingP", "textColor"]
+- !private ["So8NSCodingP", "textFields"]
+- !private ["So8NSCodingP", "textLabel"]
+- !private ["So8NSCodingP", "toggleCellCheckbox"]
+- !private ["So8NSCodingP", "user"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "black"]
+- !private ["So9NSCopyingP", "gray"]
+- !private ["So9NSCopyingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "GearItem"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertAction"]
+- !private ["So26NSExtensionRequestHandlingP", "UIAlertController"]
+- !private ["So26NSExtensionRequestHandlingP", "User"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- !private ["So26NSExtensionRequestHandlingP", "addAction"]
+- !private ["So26NSExtensionRequestHandlingP", "addTextField"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "items"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "tableView"]
+- !private ["So26NSExtensionRequestHandlingP", "textFields"]
+- !private ["So26NSExtensionRequestHandlingP", "toggleCellCheckbox"]
+- !private ["So26NSExtensionRequestHandlingP", "user"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So21NSItemProviderReadingP", "black"]
+- !private ["So21NSItemProviderReadingP", "gray"]
+- !private ["So21NSItemProviderWritingP", "black"]
+- !private ["So21NSItemProviderWritingP", "gray"]
+- ["So8NSObjectC", "AnyObject"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "EditingStyle"]
+- ["So8NSObjectC", "GearItem"]
+- ["So8NSObjectC", "IndexPath"]
+- ["So8NSObjectC", "Int"]
+- !private ["So8NSObjectC", "UIAlertAction"]
+- !private ["So8NSObjectC", "UIAlertController"]
+- ["So8NSObjectC", "UIStatusBarStyle"]
+- ["So8NSObjectC", "UITableView"]
+- ["So8NSObjectC", "UITableViewCell"]
+- ["So8NSObjectC", "User"]
+- !private ["So8NSObjectC", "accessoryType"]
+- !private ["So8NSObjectC", "addAction"]
+- ["So8NSObjectC", "addButtonDidTouch"]
+- !private ["So8NSObjectC", "addTextField"]
+- !private ["So8NSObjectC", "allowsMultipleSelectionDuringEditing"]
+- !private ["So8NSObjectC", "black"]
+- !private ["So8NSObjectC", "cellForRow"]
+- !private ["So8NSObjectC", "dequeueReusableCell"]
+- !private ["So8NSObjectC", "detailTextLabel"]
+- !private ["So8NSObjectC", "gray"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "items"]
+- ["So8NSObjectC", "listToUsers"]
+- ["So8NSObjectC", "preferredStatusBarStyle"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "reloadData"]
+- ["So8NSObjectC", "tableView"]
+- !private ["So8NSObjectC", "text"]
+- !private ["So8NSObjectC", "textColor"]
+- !private ["So8NSObjectC", "textFields"]
+- !private ["So8NSObjectC", "textLabel"]
+- ["So8NSObjectC", "toggleCellCheckbox"]
+- ["So8NSObjectC", "user"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", "EditingStyle"]
+- !private ["So8NSObjectP", "GearItem"]
+- !private ["So8NSObjectP", "UIAlertAction"]
+- !private ["So8NSObjectP", "UIAlertController"]
+- !private ["So8NSObjectP", "User"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "accessoryType"]
+- !private ["So8NSObjectP", "addAction"]
+- !private ["So8NSObjectP", "addTextField"]
+- !private ["So8NSObjectP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So8NSObjectP", "black"]
+- !private ["So8NSObjectP", "cellForRow"]
+- !private ["So8NSObjectP", "dequeueReusableCell"]
+- !private ["So8NSObjectP", "detailTextLabel"]
+- !private ["So8NSObjectP", "gray"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "items"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "reloadData"]
+- !private ["So8NSObjectP", "tableView"]
+- !private ["So8NSObjectP", "text"]
+- !private ["So8NSObjectP", "textColor"]
+- !private ["So8NSObjectP", "textFields"]
+- !private ["So8NSObjectP", "textLabel"]
+- !private ["So8NSObjectP", "toggleCellCheckbox"]
+- !private ["So8NSObjectP", "user"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "black"]
+- !private ["So14NSSecureCodingP", "gray"]
+- !private ["Sq", "allowsMultipleSelectionDuringEditing"]
+- !private ["Sq", "black"]
+- !private ["Sq", "email"]
+- !private ["Sq", "gray"]
+- !private ["Sq", "reloadData"]
+- !private ["Sk", "append"]
+- !private ["Sk", "count"]
+- !private ["Sk", "remove"]
+- !private ["Sk", "row"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "append"]
+- !private ["Sm", "count"]
+- ["Sm", "init"]
+- ["Sm", "init"]
+- !private ["Sm", "remove"]
+- !private ["Sm", "subscript"]
+- !private ["SY", "alert"]
+- !private ["SY", "cancel"]
+- !private ["SY", "checkmark"]
+- !private ["SY", "default"]
+- !private ["SY", "delete"]
+- !private ["SY", "lightContent"]
+- !private ["SY", "none"]
+- !private ["10Foundation20ReferenceConvertibleP", "row"]
+- !private ["ST", "append"]
+- !private ["ST", "count"]
+- ["ST", "init"]
+- ["ST", "init"]
+- !private ["ST", "remove"]
+- !private ["ST", "row"]
+- !private ["ST", "subscript"]
+- ["SS", "init"]
+- ["SS", "init"]
+- ["Sy", "init"]
+- ["Sy", "init"]
+- !private ["So22UIAlertControllerStyleV", "alert"]
+- !private ["So18UIAlertActionStyleV", "cancel"]
+- !private ["So18UIAlertActionStyleV", "default"]
+- ["s16TextOutputStreamP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- ["So29UIAccessibilityIdentificationP", "EditingStyle"]
+- !private ["So29UIAccessibilityIdentificationP", "accessoryType"]
+- !private ["So29UIAccessibilityIdentificationP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So29UIAccessibilityIdentificationP", "cellForRow"]
+- !private ["So29UIAccessibilityIdentificationP", "dequeueReusableCell"]
+- !private ["So29UIAccessibilityIdentificationP", "detailTextLabel"]
+- !private ["So29UIAccessibilityIdentificationP", "reloadData"]
+- !private ["So29UIAccessibilityIdentificationP", "text"]
+- !private ["So29UIAccessibilityIdentificationP", "textColor"]
+- !private ["So29UIAccessibilityIdentificationP", "textLabel"]
+- !private ["So13UIAlertActionC", "init"]
+- !private ["So17UIAlertControllerC", "addAction"]
+- !private ["So17UIAlertControllerC", "addTextField"]
+- !private ["So17UIAlertControllerC", "init"]
+- !private ["So17UIAlertControllerC", "textFields"]
+- ["So12UIAppearanceP", "EditingStyle"]
+- !private ["So12UIAppearanceP", "accessoryType"]
+- !private ["So12UIAppearanceP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So12UIAppearanceP", "cellForRow"]
+- !private ["So12UIAppearanceP", "dequeueReusableCell"]
+- !private ["So12UIAppearanceP", "detailTextLabel"]
+- !private ["So12UIAppearanceP", "reloadData"]
+- !private ["So12UIAppearanceP", "text"]
+- !private ["So12UIAppearanceP", "textColor"]
+- !private ["So12UIAppearanceP", "textLabel"]
+- ["So21UIAppearanceContainerP", "EditingStyle"]
+- !private ["So21UIAppearanceContainerP", "GearItem"]
+- !private ["So21UIAppearanceContainerP", "UIAlertAction"]
+- !private ["So21UIAppearanceContainerP", "UIAlertController"]
+- !private ["So21UIAppearanceContainerP", "User"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "accessoryType"]
+- !private ["So21UIAppearanceContainerP", "addAction"]
+- !private ["So21UIAppearanceContainerP", "addTextField"]
+- !private ["So21UIAppearanceContainerP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So21UIAppearanceContainerP", "cellForRow"]
+- !private ["So21UIAppearanceContainerP", "dequeueReusableCell"]
+- !private ["So21UIAppearanceContainerP", "detailTextLabel"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "items"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "reloadData"]
+- !private ["So21UIAppearanceContainerP", "tableView"]
+- !private ["So21UIAppearanceContainerP", "text"]
+- !private ["So21UIAppearanceContainerP", "textColor"]
+- !private ["So21UIAppearanceContainerP", "textFields"]
+- !private ["So21UIAppearanceContainerP", "textLabel"]
+- !private ["So21UIAppearanceContainerP", "toggleCellCheckbox"]
+- !private ["So21UIAppearanceContainerP", "user"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- !private ["So7UIColorC", "black"]
+- !private ["So7UIColorC", "gray"]
+- !private ["So18UIContentContainerP", "GearItem"]
+- !private ["So18UIContentContainerP", "UIAlertAction"]
+- !private ["So18UIContentContainerP", "UIAlertController"]
+- !private ["So18UIContentContainerP", "User"]
+- ["So18UIContentContainerP", ""]
+- !private ["So18UIContentContainerP", "addAction"]
+- !private ["So18UIContentContainerP", "addTextField"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "items"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "tableView"]
+- !private ["So18UIContentContainerP", "textFields"]
+- !private ["So18UIContentContainerP", "toggleCellCheckbox"]
+- !private ["So18UIContentContainerP", "user"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "text"]
+- !private ["So30UIContentSizeCategoryAdjustingP", "textColor"]
+- !private ["So9UIControlC", "text"]
+- ["So17UICoordinateSpaceP", "EditingStyle"]
+- !private ["So17UICoordinateSpaceP", "accessoryType"]
+- !private ["So17UICoordinateSpaceP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So17UICoordinateSpaceP", "cellForRow"]
+- !private ["So17UICoordinateSpaceP", "dequeueReusableCell"]
+- !private ["So17UICoordinateSpaceP", "detailTextLabel"]
+- !private ["So17UICoordinateSpaceP", "reloadData"]
+- !private ["So17UICoordinateSpaceP", "text"]
+- !private ["So17UICoordinateSpaceP", "textColor"]
+- !private ["So17UICoordinateSpaceP", "textLabel"]
+- !private ["So23UIDataSourceTranslatingP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So23UIDataSourceTranslatingP", "cellForRow"]
+- !private ["So23UIDataSourceTranslatingP", "dequeueReusableCell"]
+- !private ["So23UIDataSourceTranslatingP", "reloadData"]
+- ["So13UIDynamicItemP", "EditingStyle"]
+- !private ["So13UIDynamicItemP", "accessoryType"]
+- !private ["So13UIDynamicItemP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So13UIDynamicItemP", "cellForRow"]
+- !private ["So13UIDynamicItemP", "dequeueReusableCell"]
+- !private ["So13UIDynamicItemP", "detailTextLabel"]
+- !private ["So13UIDynamicItemP", "reloadData"]
+- !private ["So13UIDynamicItemP", "text"]
+- !private ["So13UIDynamicItemP", "textColor"]
+- !private ["So13UIDynamicItemP", "textLabel"]
+- ["So18UIFocusEnvironmentP", "EditingStyle"]
+- !private ["So18UIFocusEnvironmentP", "GearItem"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertAction"]
+- !private ["So18UIFocusEnvironmentP", "UIAlertController"]
+- !private ["So18UIFocusEnvironmentP", "User"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "accessoryType"]
+- !private ["So18UIFocusEnvironmentP", "addAction"]
+- !private ["So18UIFocusEnvironmentP", "addTextField"]
+- !private ["So18UIFocusEnvironmentP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So18UIFocusEnvironmentP", "cellForRow"]
+- !private ["So18UIFocusEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UIFocusEnvironmentP", "detailTextLabel"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "items"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "reloadData"]
+- !private ["So18UIFocusEnvironmentP", "tableView"]
+- !private ["So18UIFocusEnvironmentP", "text"]
+- !private ["So18UIFocusEnvironmentP", "textColor"]
+- !private ["So18UIFocusEnvironmentP", "textFields"]
+- !private ["So18UIFocusEnvironmentP", "textLabel"]
+- !private ["So18UIFocusEnvironmentP", "toggleCellCheckbox"]
+- !private ["So18UIFocusEnvironmentP", "user"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- ["So11UIFocusItemP", "EditingStyle"]
+- !private ["So11UIFocusItemP", "accessoryType"]
+- !private ["So11UIFocusItemP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So11UIFocusItemP", "cellForRow"]
+- !private ["So11UIFocusItemP", "dequeueReusableCell"]
+- !private ["So11UIFocusItemP", "detailTextLabel"]
+- !private ["So11UIFocusItemP", "reloadData"]
+- !private ["So11UIFocusItemP", "text"]
+- !private ["So11UIFocusItemP", "textColor"]
+- !private ["So11UIFocusItemP", "textLabel"]
+- ["So20UIFocusItemContainerP", "EditingStyle"]
+- !private ["So20UIFocusItemContainerP", "accessoryType"]
+- !private ["So20UIFocusItemContainerP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So20UIFocusItemContainerP", "cellForRow"]
+- !private ["So20UIFocusItemContainerP", "dequeueReusableCell"]
+- !private ["So20UIFocusItemContainerP", "detailTextLabel"]
+- !private ["So20UIFocusItemContainerP", "reloadData"]
+- !private ["So20UIFocusItemContainerP", "text"]
+- !private ["So20UIFocusItemContainerP", "textColor"]
+- !private ["So20UIFocusItemContainerP", "textLabel"]
+- !private ["So30UIFocusItemScrollableContainerP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So30UIFocusItemScrollableContainerP", "cellForRow"]
+- !private ["So30UIFocusItemScrollableContainerP", "dequeueReusableCell"]
+- !private ["So30UIFocusItemScrollableContainerP", "reloadData"]
+- ["So27UIGestureRecognizerDelegateP", "EditingStyle"]
+- !private ["So27UIGestureRecognizerDelegateP", "accessoryType"]
+- !private ["So27UIGestureRecognizerDelegateP", "detailTextLabel"]
+- !private ["So27UIGestureRecognizerDelegateP", "textLabel"]
+- !private ["So10UIKeyInputP", "text"]
+- !private ["So7UILabelC", "text"]
+- !private ["So7UILabelC", "textColor"]
+- ["So30UIPasteConfigurationSupportingP", "EditingStyle"]
+- !private ["So30UIPasteConfigurationSupportingP", "GearItem"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "UIAlertController"]
+- !private ["So30UIPasteConfigurationSupportingP", "User"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "accessoryType"]
+- !private ["So30UIPasteConfigurationSupportingP", "addAction"]
+- !private ["So30UIPasteConfigurationSupportingP", "addTextField"]
+- !private ["So30UIPasteConfigurationSupportingP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So30UIPasteConfigurationSupportingP", "cellForRow"]
+- !private ["So30UIPasteConfigurationSupportingP", "dequeueReusableCell"]
+- !private ["So30UIPasteConfigurationSupportingP", "detailTextLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "items"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "reloadData"]
+- !private ["So30UIPasteConfigurationSupportingP", "tableView"]
+- !private ["So30UIPasteConfigurationSupportingP", "text"]
+- !private ["So30UIPasteConfigurationSupportingP", "textColor"]
+- !private ["So30UIPasteConfigurationSupportingP", "textFields"]
+- !private ["So30UIPasteConfigurationSupportingP", "textLabel"]
+- !private ["So30UIPasteConfigurationSupportingP", "toggleCellCheckbox"]
+- !private ["So30UIPasteConfigurationSupportingP", "user"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "AnyObject"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "EditingStyle"]
+- ["So11UIResponderC", "GearItem"]
+- ["So11UIResponderC", "IndexPath"]
+- ["So11UIResponderC", "Int"]
+- !private ["So11UIResponderC", "UIAlertAction"]
+- !private ["So11UIResponderC", "UIAlertController"]
+- ["So11UIResponderC", "UIStatusBarStyle"]
+- ["So11UIResponderC", "UITableView"]
+- ["So11UIResponderC", "UITableViewCell"]
+- ["So11UIResponderC", "User"]
+- !private ["So11UIResponderC", "accessoryType"]
+- !private ["So11UIResponderC", "addAction"]
+- ["So11UIResponderC", "addButtonDidTouch"]
+- !private ["So11UIResponderC", "addTextField"]
+- !private ["So11UIResponderC", "allowsMultipleSelectionDuringEditing"]
+- !private ["So11UIResponderC", "cellForRow"]
+- !private ["So11UIResponderC", "dequeueReusableCell"]
+- !private ["So11UIResponderC", "detailTextLabel"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "items"]
+- ["So11UIResponderC", "listToUsers"]
+- ["So11UIResponderC", "preferredStatusBarStyle"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "reloadData"]
+- ["So11UIResponderC", "tableView"]
+- !private ["So11UIResponderC", "text"]
+- !private ["So11UIResponderC", "textColor"]
+- !private ["So11UIResponderC", "textFields"]
+- !private ["So11UIResponderC", "textLabel"]
+- ["So11UIResponderC", "toggleCellCheckbox"]
+- ["So11UIResponderC", "user"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "EditingStyle"]
+- !private ["So30UIResponderStandardEditActionsP", "GearItem"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertAction"]
+- !private ["So30UIResponderStandardEditActionsP", "UIAlertController"]
+- !private ["So30UIResponderStandardEditActionsP", "User"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "accessoryType"]
+- !private ["So30UIResponderStandardEditActionsP", "addAction"]
+- !private ["So30UIResponderStandardEditActionsP", "addTextField"]
+- !private ["So30UIResponderStandardEditActionsP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So30UIResponderStandardEditActionsP", "cellForRow"]
+- !private ["So30UIResponderStandardEditActionsP", "dequeueReusableCell"]
+- !private ["So30UIResponderStandardEditActionsP", "detailTextLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "items"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "reloadData"]
+- !private ["So30UIResponderStandardEditActionsP", "tableView"]
+- !private ["So30UIResponderStandardEditActionsP", "text"]
+- !private ["So30UIResponderStandardEditActionsP", "textColor"]
+- !private ["So30UIResponderStandardEditActionsP", "textFields"]
+- !private ["So30UIResponderStandardEditActionsP", "textLabel"]
+- !private ["So30UIResponderStandardEditActionsP", "toggleCellCheckbox"]
+- !private ["So30UIResponderStandardEditActionsP", "user"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- !private ["So12UIScrollViewC", "allowsMultipleSelectionDuringEditing"]
+- !private ["So12UIScrollViewC", "cellForRow"]
+- !private ["So12UIScrollViewC", "dequeueReusableCell"]
+- !private ["So12UIScrollViewC", "reloadData"]
+- !private ["So20UIScrollViewDelegateP", "GearItem"]
+- !private ["So20UIScrollViewDelegateP", "UIAlertAction"]
+- !private ["So20UIScrollViewDelegateP", "UIAlertController"]
+- !private ["So20UIScrollViewDelegateP", "User"]
+- ["So20UIScrollViewDelegateP", ""]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "init"]
+- !private ["So20UIScrollViewDelegateP", "items"]
+- !private ["So20UIScrollViewDelegateP", "present"]
+- !private ["So20UIScrollViewDelegateP", "tableView"]
+- !private ["So20UIScrollViewDelegateP", "toggleCellCheckbox"]
+- !private ["So20UIScrollViewDelegateP", "user"]
+- !private ["So20UIScrollViewDelegateP", "viewDidLoad"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addAction"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "addTextField"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "cellForRow"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "dequeueReusableCell"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "init"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "reloadData"]
+- !private ["So35UISpringLoadedInteractionSupportingP", "textFields"]
+- !private ["So16UIStateRestoringP", "GearItem"]
+- !private ["So16UIStateRestoringP", "UIAlertAction"]
+- !private ["So16UIStateRestoringP", "UIAlertController"]
+- !private ["So16UIStateRestoringP", "User"]
+- ["So16UIStateRestoringP", ""]
+- !private ["So16UIStateRestoringP", "addAction"]
+- !private ["So16UIStateRestoringP", "addTextField"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "items"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "tableView"]
+- !private ["So16UIStateRestoringP", "textFields"]
+- !private ["So16UIStateRestoringP", "toggleCellCheckbox"]
+- !private ["So16UIStateRestoringP", "user"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- !private ["So16UIStatusBarStyleV", "lightContent"]
+- !private ["So11UITableViewC", "allowsMultipleSelectionDuringEditing"]
+- !private ["So11UITableViewC", "cellForRow"]
+- !private ["So11UITableViewC", "dequeueReusableCell"]
+- !private ["So11UITableViewC", "reloadData"]
+- ["So15UITableViewCellC", "EditingStyle"]
+- !private ["So15UITableViewCellC", "accessoryType"]
+- !private ["So15UITableViewCellC", "detailTextLabel"]
+- !private ["So15UITableViewCellC", "textLabel"]
+- ["So21UITableViewControllerC", "AnyObject"]
+- ["So21UITableViewControllerC", "Bool"]
+- ["So21UITableViewControllerC", "GearItem"]
+- ["So21UITableViewControllerC", "IndexPath"]
+- ["So21UITableViewControllerC", "Int"]
+- !private ["So21UITableViewControllerC", "UIAlertAction"]
+- !private ["So21UITableViewControllerC", "UIAlertController"]
+- ["So21UITableViewControllerC", "UIStatusBarStyle"]
+- ["So21UITableViewControllerC", "UITableView"]
+- ["So21UITableViewControllerC", "UITableViewCell"]
+- ["So21UITableViewControllerC", "User"]
+- ["So21UITableViewControllerC", ""]
+- ["So21UITableViewControllerC", "addButtonDidTouch"]
+- ["So21UITableViewControllerC", "init"]
+- !private ["So21UITableViewControllerC", "init"]
+- ["So21UITableViewControllerC", "items"]
+- ["So21UITableViewControllerC", "listToUsers"]
+- ["So21UITableViewControllerC", "preferredStatusBarStyle"]
+- !private ["So21UITableViewControllerC", "present"]
+- ["So21UITableViewControllerC", "tableView"]
+- ["So21UITableViewControllerC", "toggleCellCheckbox"]
+- ["So21UITableViewControllerC", "user"]
+- ["So21UITableViewControllerC", "viewDidLoad"]
+- !private ["So21UITableViewDataSourceP", "GearItem"]
+- !private ["So21UITableViewDataSourceP", "UIAlertAction"]
+- !private ["So21UITableViewDataSourceP", "UIAlertController"]
+- !private ["So21UITableViewDataSourceP", "User"]
+- ["So21UITableViewDataSourceP", ""]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "init"]
+- !private ["So21UITableViewDataSourceP", "items"]
+- !private ["So21UITableViewDataSourceP", "present"]
+- !private ["So21UITableViewDataSourceP", "tableView"]
+- !private ["So21UITableViewDataSourceP", "toggleCellCheckbox"]
+- !private ["So21UITableViewDataSourceP", "user"]
+- !private ["So21UITableViewDataSourceP", "viewDidLoad"]
+- !private ["So19UITableViewDelegateP", "GearItem"]
+- !private ["So19UITableViewDelegateP", "UIAlertAction"]
+- !private ["So19UITableViewDelegateP", "UIAlertController"]
+- !private ["So19UITableViewDelegateP", "User"]
+- ["So19UITableViewDelegateP", ""]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "init"]
+- !private ["So19UITableViewDelegateP", "items"]
+- !private ["So19UITableViewDelegateP", "present"]
+- !private ["So19UITableViewDelegateP", "tableView"]
+- !private ["So19UITableViewDelegateP", "toggleCellCheckbox"]
+- !private ["So19UITableViewDelegateP", "user"]
+- !private ["So19UITableViewDelegateP", "viewDidLoad"]
+- !private ["So15UITextDraggableP", "text"]
+- !private ["So15UITextDroppableP", "text"]
+- !private ["So11UITextFieldC", "text"]
+- !private ["So11UITextInputP", "text"]
+- !private ["So17UITextInputTraitsP", "text"]
+- !private ["So34UITextPasteConfigurationSupportingP", "text"]
+- ["So18UITraitEnvironmentP", "EditingStyle"]
+- !private ["So18UITraitEnvironmentP", "GearItem"]
+- !private ["So18UITraitEnvironmentP", "UIAlertAction"]
+- !private ["So18UITraitEnvironmentP", "UIAlertController"]
+- !private ["So18UITraitEnvironmentP", "User"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "accessoryType"]
+- !private ["So18UITraitEnvironmentP", "addAction"]
+- !private ["So18UITraitEnvironmentP", "addTextField"]
+- !private ["So18UITraitEnvironmentP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So18UITraitEnvironmentP", "cellForRow"]
+- !private ["So18UITraitEnvironmentP", "dequeueReusableCell"]
+- !private ["So18UITraitEnvironmentP", "detailTextLabel"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "items"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "reloadData"]
+- !private ["So18UITraitEnvironmentP", "tableView"]
+- !private ["So18UITraitEnvironmentP", "text"]
+- !private ["So18UITraitEnvironmentP", "textColor"]
+- !private ["So18UITraitEnvironmentP", "textFields"]
+- !private ["So18UITraitEnvironmentP", "textLabel"]
+- !private ["So18UITraitEnvironmentP", "toggleCellCheckbox"]
+- !private ["So18UITraitEnvironmentP", "user"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "EditingStyle"]
+- !private ["So23UIUserActivityRestoringP", "GearItem"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertAction"]
+- !private ["So23UIUserActivityRestoringP", "UIAlertController"]
+- !private ["So23UIUserActivityRestoringP", "User"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "accessoryType"]
+- !private ["So23UIUserActivityRestoringP", "addAction"]
+- !private ["So23UIUserActivityRestoringP", "addTextField"]
+- !private ["So23UIUserActivityRestoringP", "allowsMultipleSelectionDuringEditing"]
+- !private ["So23UIUserActivityRestoringP", "cellForRow"]
+- !private ["So23UIUserActivityRestoringP", "dequeueReusableCell"]
+- !private ["So23UIUserActivityRestoringP", "detailTextLabel"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "items"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "reloadData"]
+- !private ["So23UIUserActivityRestoringP", "tableView"]
+- !private ["So23UIUserActivityRestoringP", "text"]
+- !private ["So23UIUserActivityRestoringP", "textColor"]
+- !private ["So23UIUserActivityRestoringP", "textFields"]
+- !private ["So23UIUserActivityRestoringP", "textLabel"]
+- !private ["So23UIUserActivityRestoringP", "toggleCellCheckbox"]
+- !private ["So23UIUserActivityRestoringP", "user"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- ["So6UIViewC", "EditingStyle"]
+- !private ["So6UIViewC", "accessoryType"]
+- !private ["So6UIViewC", "allowsMultipleSelectionDuringEditing"]
+- !private ["So6UIViewC", "cellForRow"]
+- !private ["So6UIViewC", "dequeueReusableCell"]
+- !private ["So6UIViewC", "detailTextLabel"]
+- !private ["So6UIViewC", "reloadData"]
+- !private ["So6UIViewC", "text"]
+- !private ["So6UIViewC", "textColor"]
+- !private ["So6UIViewC", "textLabel"]
+- ["So16UIViewControllerC", "AnyObject"]
+- ["So16UIViewControllerC", "Bool"]
+- ["So16UIViewControllerC", "GearItem"]
+- ["So16UIViewControllerC", "IndexPath"]
+- ["So16UIViewControllerC", "Int"]
+- !private ["So16UIViewControllerC", "UIAlertAction"]
+- !private ["So16UIViewControllerC", "UIAlertController"]
+- ["So16UIViewControllerC", "UIStatusBarStyle"]
+- ["So16UIViewControllerC", "UITableView"]
+- ["So16UIViewControllerC", "UITableViewCell"]
+- ["So16UIViewControllerC", "User"]
+- !private ["So16UIViewControllerC", "addAction"]
+- ["So16UIViewControllerC", "addButtonDidTouch"]
+- !private ["So16UIViewControllerC", "addTextField"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "items"]
+- ["So16UIViewControllerC", "listToUsers"]
+- ["So16UIViewControllerC", "preferredStatusBarStyle"]
+- !private ["So16UIViewControllerC", "present"]
+- ["So16UIViewControllerC", "tableView"]
+- !private ["So16UIViewControllerC", "textFields"]
+- ["So16UIViewControllerC", "toggleCellCheckbox"]
+- ["So16UIViewControllerC", "user"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["11BackPackApp4UserV", "email"]
+- !private ["11BackPackApp4UserV", "init"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", "EditingStyle"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "accessoryType"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "allowsMultipleSelectionDuringEditing"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "cellForRow"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "dequeueReusableCell"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "detailTextLabel"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "reloadData"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "text"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textColor"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "textLabel"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "remove"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- !private ["s26_ExpressibleByColorLiteralP", "black"]
+- !private ["s26_ExpressibleByColorLiteralP", "gray"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "remove"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "EditingStyle"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GearItem"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIAlertController"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "User"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "accessoryType"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addAction"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "addTextField"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "allowsMultipleSelectionDuringEditing"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "black"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "cellForRow"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "dequeueReusableCell"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "detailTextLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "gray"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "items"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "reloadData"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "tableView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "text"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textColor"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textFields"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "textLabel"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "toggleCellCheckbox"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "user"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "allowsMultipleSelectionDuringEditing"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "black"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "email"]
+- !private ["s21_ObjectiveCBridgeableP", "gray"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "reloadData"]
+- !private ["s21_ObjectiveCBridgeableP", "remove"]
+- !private ["s21_ObjectiveCBridgeableP", "row"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "So28UITableViewCellAccessoryTypeV"
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- "SK"
+- !private "Sb"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- "Sl"
+- "SL"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "Se"
+- !private "So27UITableViewCellEditingStyleV"
+- "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- !private "11BackPackApp8GearItemV"
+- "11BackPackApp27GearListTableViewControllerC"
+- "SH"
+- !private "10Foundation9IndexPathV"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "SM"
+- "So8NSCodingP"
+- !private "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So21NSItemProviderReadingP"
+- !private "So21NSItemProviderWritingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "Sk"
+- "Sm"
+- !private "SY"
+- !private "10Foundation20ReferenceConvertibleP"
+- "ST"
+- "SS"
+- "Sy"
+- !private "So22UIAlertControllerStyleV"
+- !private "So18UIAlertActionStyleV"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- "So29UIAccessibilityIdentificationP"
+- !private "So13UIAlertActionC"
+- !private "So17UIAlertControllerC"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- !private "So7UIColorC"
+- "So18UIContentContainerP"
+- !private "So30UIContentSizeCategoryAdjustingP"
+- !private "So9UIControlC"
+- "So17UICoordinateSpaceP"
+- !private "So23UIDataSourceTranslatingP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- "So20UIFocusItemContainerP"
+- !private "So30UIFocusItemScrollableContainerP"
+- "So27UIGestureRecognizerDelegateP"
+- !private "So10UIKeyInputP"
+- !private "So7UILabelC"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- !private "So12UIScrollViewC"
+- "So20UIScrollViewDelegateP"
+- !private "So35UISpringLoadedInteractionSupportingP"
+- "So16UIStateRestoringP"
+- !private "So16UIStatusBarStyleV"
+- !private "So11UITableViewC"
+- "So15UITableViewCellC"
+- "So21UITableViewControllerC"
+- "So21UITableViewDataSourceP"
+- "So19UITableViewDelegateP"
+- !private "So15UITextDraggableP"
+- !private "So15UITextDroppableP"
+- !private "So11UITextFieldC"
+- !private "So11UITextInputP"
+- !private "So17UITextInputTraitsP"
+- !private "So34UITextPasteConfigurationSupportingP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "11BackPackApp4UserV"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- !private "s26_ExpressibleByColorLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "s21_ObjectiveCBridgeableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1cdc74bae8720863483e30c7b30eaa10"

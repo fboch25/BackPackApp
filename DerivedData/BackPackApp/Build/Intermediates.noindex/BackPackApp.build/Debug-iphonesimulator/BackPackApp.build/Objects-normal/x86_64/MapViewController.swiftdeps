@@ -1,0 +1,893 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MapViewController"
+provides-nominal:
+- "11BackPackApp17MapViewControllerC"
+provides-member:
+- ["11BackPackApp17MapViewControllerC", ""]
+provides-dynamic-lookup:
+- "locationManager"
+- "mapView"
+- "viewDidLoad"
+depends-top-level:
+- !private "=="
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- "CLAuthorizationStatus"
+- "CLLocation"
+- "CLLocationCoordinate2D"
+- "CLLocationManager"
+- "CLLocationManagerDelegate"
+- !private "FloatLiteralType"
+- !private "GMSCameraPosition"
+- "GMSMapView"
+- "GMSMapViewDelegate"
+- "GMSMarker"
+- !private "IntegerLiteralType"
+- "MapViewController"
+- "UIViewController"
+depends-member:
+- !private ["Sa", "first"]
+- !private ["s13ArrayProtocolP", "first"]
+- !private ["SK", "first"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["So15CALayerDelegateP", "camera"]
+- !private ["So15CALayerDelegateP", "isMyLocationEnabled"]
+- !private ["So15CALayerDelegateP", "settings"]
+- !private ["So21CLAuthorizationStatusV", "authorizedWhenInUse"]
+- !private ["So10CLLocationC", "coordinate"]
+- !private ["So17CLLocationManagerC", "delegate"]
+- ["So17CLLocationManagerC", "init"]
+- !private ["So17CLLocationManagerC", "requestWhenInUseAuthorization"]
+- !private ["So17CLLocationManagerC", "startUpdatingLocation"]
+- !private ["So17CLLocationManagerC", "stopUpdatingLocation"]
+- ["So25CLLocationManagerDelegateP", "CLLocationManager"]
+- !private ["So25CLLocationManagerDelegateP", "GMSCameraPosition"]
+- ["So25CLLocationManagerDelegateP", "GMSMarker"]
+- ["So25CLLocationManagerDelegateP", ""]
+- ["So25CLLocationManagerDelegateP", "didTapMyLocationButton"]
+- ["So25CLLocationManagerDelegateP", "didTapMyLocationButtonForMapView"]
+- ["So25CLLocationManagerDelegateP", "locationManager"]
+- ["So25CLLocationManagerDelegateP", "locationManagerDidPauseLocationUpdates"]
+- ["So25CLLocationManagerDelegateP", "locationManagerDidResumeLocationUpdates"]
+- ["So25CLLocationManagerDelegateP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So25CLLocationManagerDelegateP", "mapView"]
+- ["So25CLLocationManagerDelegateP", "mapViewDidFinishTileRendering"]
+- ["So25CLLocationManagerDelegateP", "mapViewDidStartTileRendering"]
+- ["So25CLLocationManagerDelegateP", "mapViewSnapshotReady"]
+- !private ["So25CLLocationManagerDelegateP", "marker"]
+- ["s7CVarArgP", "CLLocationManager"]
+- !private ["s7CVarArgP", "GMSCameraPosition"]
+- ["s7CVarArgP", "GMSMarker"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "camera"]
+- !private ["s7CVarArgP", "coordinate"]
+- !private ["s7CVarArgP", "delegate"]
+- ["s7CVarArgP", "didTapMyLocationButton"]
+- ["s7CVarArgP", "didTapMyLocationButtonForMapView"]
+- !private ["s7CVarArgP", "first"]
+- ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isDraggable"]
+- !private ["s7CVarArgP", "isMyLocationEnabled"]
+- ["s7CVarArgP", "locationManager"]
+- ["s7CVarArgP", "locationManagerDidPauseLocationUpdates"]
+- ["s7CVarArgP", "locationManagerDidResumeLocationUpdates"]
+- ["s7CVarArgP", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["s7CVarArgP", "map"]
+- ["s7CVarArgP", "mapView"]
+- ["s7CVarArgP", "mapViewDidFinishTileRendering"]
+- ["s7CVarArgP", "mapViewDidStartTileRendering"]
+- ["s7CVarArgP", "mapViewSnapshotReady"]
+- !private ["s7CVarArgP", "marker"]
+- !private ["s7CVarArgP", "myLocationButton"]
+- !private ["s7CVarArgP", "opacity"]
+- !private ["s7CVarArgP", "position"]
+- !private ["s7CVarArgP", "requestWhenInUseAuthorization"]
+- !private ["s7CVarArgP", "settings"]
+- !private ["s7CVarArgP", "startUpdatingLocation"]
+- !private ["s7CVarArgP", "stopUpdatingLocation"]
+- !private ["s7CVarArgP", "viewDidLoad"]
+- !private ["Sl", "first"]
+- ["s28CustomDebugStringConvertibleP", "CLLocationManager"]
+- !private ["s28CustomDebugStringConvertibleP", "GMSCameraPosition"]
+- ["s28CustomDebugStringConvertibleP", "GMSMarker"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "camera"]
+- !private ["s28CustomDebugStringConvertibleP", "coordinate"]
+- !private ["s28CustomDebugStringConvertibleP", "delegate"]
+- ["s28CustomDebugStringConvertibleP", "didTapMyLocationButton"]
+- ["s28CustomDebugStringConvertibleP", "didTapMyLocationButtonForMapView"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isDraggable"]
+- !private ["s28CustomDebugStringConvertibleP", "isMyLocationEnabled"]
+- ["s28CustomDebugStringConvertibleP", "locationManager"]
+- ["s28CustomDebugStringConvertibleP", "locationManagerDidPauseLocationUpdates"]
+- ["s28CustomDebugStringConvertibleP", "locationManagerDidResumeLocationUpdates"]
+- ["s28CustomDebugStringConvertibleP", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- ["s28CustomDebugStringConvertibleP", "mapView"]
+- ["s28CustomDebugStringConvertibleP", "mapViewDidFinishTileRendering"]
+- ["s28CustomDebugStringConvertibleP", "mapViewDidStartTileRendering"]
+- ["s28CustomDebugStringConvertibleP", "mapViewSnapshotReady"]
+- !private ["s28CustomDebugStringConvertibleP", "marker"]
+- !private ["s28CustomDebugStringConvertibleP", "myLocationButton"]
+- !private ["s28CustomDebugStringConvertibleP", "opacity"]
+- !private ["s28CustomDebugStringConvertibleP", "position"]
+- !private ["s28CustomDebugStringConvertibleP", "requestWhenInUseAuthorization"]
+- !private ["s28CustomDebugStringConvertibleP", "settings"]
+- !private ["s28CustomDebugStringConvertibleP", "startUpdatingLocation"]
+- !private ["s28CustomDebugStringConvertibleP", "stopUpdatingLocation"]
+- !private ["s28CustomDebugStringConvertibleP", "viewDidLoad"]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "camera"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "isMyLocationEnabled"]
+- !private ["s17CustomReflectableP", "settings"]
+- ["s23CustomStringConvertibleP", "CLLocationManager"]
+- !private ["s23CustomStringConvertibleP", "GMSCameraPosition"]
+- ["s23CustomStringConvertibleP", "GMSMarker"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "camera"]
+- !private ["s23CustomStringConvertibleP", "coordinate"]
+- !private ["s23CustomStringConvertibleP", "delegate"]
+- ["s23CustomStringConvertibleP", "didTapMyLocationButton"]
+- ["s23CustomStringConvertibleP", "didTapMyLocationButtonForMapView"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isDraggable"]
+- !private ["s23CustomStringConvertibleP", "isMyLocationEnabled"]
+- ["s23CustomStringConvertibleP", "locationManager"]
+- ["s23CustomStringConvertibleP", "locationManagerDidPauseLocationUpdates"]
+- ["s23CustomStringConvertibleP", "locationManagerDidResumeLocationUpdates"]
+- ["s23CustomStringConvertibleP", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- ["s23CustomStringConvertibleP", "mapView"]
+- ["s23CustomStringConvertibleP", "mapViewDidFinishTileRendering"]
+- ["s23CustomStringConvertibleP", "mapViewDidStartTileRendering"]
+- ["s23CustomStringConvertibleP", "mapViewSnapshotReady"]
+- !private ["s23CustomStringConvertibleP", "marker"]
+- !private ["s23CustomStringConvertibleP", "myLocationButton"]
+- !private ["s23CustomStringConvertibleP", "opacity"]
+- !private ["s23CustomStringConvertibleP", "position"]
+- !private ["s23CustomStringConvertibleP", "requestWhenInUseAuthorization"]
+- !private ["s23CustomStringConvertibleP", "settings"]
+- !private ["s23CustomStringConvertibleP", "startUpdatingLocation"]
+- !private ["s23CustomStringConvertibleP", "stopUpdatingLocation"]
+- !private ["s23CustomStringConvertibleP", "viewDidLoad"]
+- !private ["Se", "_getBuiltinLogicValue"]
+- !private ["Se", "camera"]
+- !private ["Se", "first"]
+- !private ["Se", "isMyLocationEnabled"]
+- !private ["Se", "settings"]
+- !private ["SE", "_getBuiltinLogicValue"]
+- !private ["SE", "camera"]
+- !private ["SE", "first"]
+- !private ["SE", "isMyLocationEnabled"]
+- !private ["SE", "settings"]
+- ["SQ", "CLLocationManager"]
+- !private ["SQ", "GMSCameraPosition"]
+- ["SQ", "GMSMarker"]
+- ["SQ", ""]
+- !private ["SQ", "_getBuiltinLogicValue"]
+- !private ["SQ", "authorizedWhenInUse"]
+- !private ["SQ", "camera"]
+- !private ["SQ", "coordinate"]
+- !private ["SQ", "delegate"]
+- ["SQ", "didTapMyLocationButton"]
+- ["SQ", "didTapMyLocationButtonForMapView"]
+- !private ["SQ", "first"]
+- ["SQ", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "isDraggable"]
+- !private ["SQ", "isMyLocationEnabled"]
+- ["SQ", "locationManager"]
+- ["SQ", "locationManagerDidPauseLocationUpdates"]
+- ["SQ", "locationManagerDidResumeLocationUpdates"]
+- ["SQ", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["SQ", "map"]
+- ["SQ", "mapView"]
+- ["SQ", "mapViewDidFinishTileRendering"]
+- ["SQ", "mapViewDidStartTileRendering"]
+- ["SQ", "mapViewSnapshotReady"]
+- !private ["SQ", "marker"]
+- !private ["SQ", "myLocationButton"]
+- !private ["SQ", "opacity"]
+- !private ["SQ", "position"]
+- !private ["SQ", "requestWhenInUseAuthorization"]
+- !private ["SQ", "settings"]
+- !private ["SQ", "startUpdatingLocation"]
+- !private ["SQ", "stopUpdatingLocation"]
+- !private ["SQ", "viewDidLoad"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s23ExpressibleByNilLiteralP", "camera"]
+- !private ["s23ExpressibleByNilLiteralP", "isMyLocationEnabled"]
+- !private ["s23ExpressibleByNilLiteralP", "settings"]
+- !private ["So17GMSCameraPositionC", "init"]
+- !private ["So10GMSMapViewC", "camera"]
+- !private ["So10GMSMapViewC", "isMyLocationEnabled"]
+- !private ["So10GMSMapViewC", "settings"]
+- ["So18GMSMapViewDelegateP", "CLLocationManager"]
+- !private ["So18GMSMapViewDelegateP", "GMSCameraPosition"]
+- ["So18GMSMapViewDelegateP", "GMSMarker"]
+- ["So18GMSMapViewDelegateP", ""]
+- ["So18GMSMapViewDelegateP", "didTapMyLocationButton"]
+- ["So18GMSMapViewDelegateP", "didTapMyLocationButtonForMapView"]
+- ["So18GMSMapViewDelegateP", "locationManager"]
+- ["So18GMSMapViewDelegateP", "locationManagerDidPauseLocationUpdates"]
+- ["So18GMSMapViewDelegateP", "locationManagerDidResumeLocationUpdates"]
+- ["So18GMSMapViewDelegateP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So18GMSMapViewDelegateP", "mapView"]
+- ["So18GMSMapViewDelegateP", "mapViewDidFinishTileRendering"]
+- ["So18GMSMapViewDelegateP", "mapViewDidStartTileRendering"]
+- ["So18GMSMapViewDelegateP", "mapViewSnapshotReady"]
+- !private ["So18GMSMapViewDelegateP", "marker"]
+- ["So9GMSMarkerC", "init"]
+- !private ["So9GMSMarkerC", "isDraggable"]
+- !private ["So9GMSMarkerC", "map"]
+- !private ["So9GMSMarkerC", "opacity"]
+- !private ["So9GMSMarkerC", "position"]
+- ["So10GMSOverlayC", "init"]
+- !private ["So10GMSOverlayC", "isDraggable"]
+- !private ["So10GMSOverlayC", "map"]
+- !private ["So10GMSOverlayC", "opacity"]
+- !private ["So10GMSOverlayC", "position"]
+- !private ["So13GMSUISettingsC", "myLocationButton"]
+- ["SH", "CLLocationManager"]
+- !private ["SH", "GMSCameraPosition"]
+- ["SH", "GMSMarker"]
+- ["SH", ""]
+- !private ["SH", "_getBuiltinLogicValue"]
+- !private ["SH", "authorizedWhenInUse"]
+- !private ["SH", "camera"]
+- !private ["SH", "coordinate"]
+- !private ["SH", "delegate"]
+- ["SH", "didTapMyLocationButton"]
+- ["SH", "didTapMyLocationButtonForMapView"]
+- !private ["SH", "first"]
+- ["SH", "init"]
+- !private ["SH", "init"]
+- !private ["SH", "isDraggable"]
+- !private ["SH", "isMyLocationEnabled"]
+- ["SH", "locationManager"]
+- ["SH", "locationManagerDidPauseLocationUpdates"]
+- ["SH", "locationManagerDidResumeLocationUpdates"]
+- ["SH", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["SH", "map"]
+- ["SH", "mapView"]
+- ["SH", "mapViewDidFinishTileRendering"]
+- ["SH", "mapViewDidStartTileRendering"]
+- ["SH", "mapViewSnapshotReady"]
+- !private ["SH", "marker"]
+- !private ["SH", "myLocationButton"]
+- !private ["SH", "opacity"]
+- !private ["SH", "position"]
+- !private ["SH", "requestWhenInUseAuthorization"]
+- !private ["SH", "settings"]
+- !private ["SH", "startUpdatingLocation"]
+- !private ["SH", "stopUpdatingLocation"]
+- !private ["SH", "viewDidLoad"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["11BackPackApp17MapViewControllerC", "CLAuthorizationStatus"]
+- ["11BackPackApp17MapViewControllerC", "CLLocation"]
+- ["11BackPackApp17MapViewControllerC", "CLLocationCoordinate2D"]
+- ["11BackPackApp17MapViewControllerC", "CLLocationManager"]
+- !private ["11BackPackApp17MapViewControllerC", "GMSCameraPosition"]
+- ["11BackPackApp17MapViewControllerC", "GMSMapView"]
+- ["11BackPackApp17MapViewControllerC", "GMSMarker"]
+- ["11BackPackApp17MapViewControllerC", "deinit"]
+- ["11BackPackApp17MapViewControllerC", "didTapMyLocationButton"]
+- ["11BackPackApp17MapViewControllerC", "didTapMyLocationButtonForMapView"]
+- ["11BackPackApp17MapViewControllerC", "init"]
+- ["11BackPackApp17MapViewControllerC", "locationManager"]
+- ["11BackPackApp17MapViewControllerC", "locationManagerDidPauseLocationUpdates"]
+- ["11BackPackApp17MapViewControllerC", "locationManagerDidResumeLocationUpdates"]
+- ["11BackPackApp17MapViewControllerC", "locationManagerShouldDisplayHeadingCalibration"]
+- ["11BackPackApp17MapViewControllerC", "mapView"]
+- ["11BackPackApp17MapViewControllerC", "mapViewDidFinishTileRendering"]
+- ["11BackPackApp17MapViewControllerC", "mapViewDidStartTileRendering"]
+- ["11BackPackApp17MapViewControllerC", "mapViewSnapshotReady"]
+- ["11BackPackApp17MapViewControllerC", "marker"]
+- ["11BackPackApp17MapViewControllerC", "showMarker"]
+- ["11BackPackApp17MapViewControllerC", "viewDidLoad"]
+- !private ["SM", "first"]
+- ["So8NSCodingP", "CLLocationManager"]
+- !private ["So8NSCodingP", "GMSCameraPosition"]
+- ["So8NSCodingP", "GMSMarker"]
+- ["So8NSCodingP", ""]
+- !private ["So8NSCodingP", "camera"]
+- !private ["So8NSCodingP", "coordinate"]
+- ["So8NSCodingP", "didTapMyLocationButton"]
+- ["So8NSCodingP", "didTapMyLocationButtonForMapView"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "init"]
+- !private ["So8NSCodingP", "isMyLocationEnabled"]
+- ["So8NSCodingP", "locationManager"]
+- ["So8NSCodingP", "locationManagerDidPauseLocationUpdates"]
+- ["So8NSCodingP", "locationManagerDidResumeLocationUpdates"]
+- ["So8NSCodingP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So8NSCodingP", "mapView"]
+- ["So8NSCodingP", "mapViewDidFinishTileRendering"]
+- ["So8NSCodingP", "mapViewDidStartTileRendering"]
+- ["So8NSCodingP", "mapViewSnapshotReady"]
+- !private ["So8NSCodingP", "marker"]
+- !private ["So8NSCodingP", "settings"]
+- !private ["So8NSCodingP", "viewDidLoad"]
+- !private ["So9NSCopyingP", "coordinate"]
+- ["So9NSCopyingP", "init"]
+- !private ["So9NSCopyingP", "isDraggable"]
+- !private ["So9NSCopyingP", "map"]
+- !private ["So9NSCopyingP", "opacity"]
+- !private ["So9NSCopyingP", "position"]
+- ["So26NSExtensionRequestHandlingP", "CLLocationManager"]
+- !private ["So26NSExtensionRequestHandlingP", "GMSCameraPosition"]
+- ["So26NSExtensionRequestHandlingP", "GMSMarker"]
+- ["So26NSExtensionRequestHandlingP", ""]
+- ["So26NSExtensionRequestHandlingP", "didTapMyLocationButton"]
+- ["So26NSExtensionRequestHandlingP", "didTapMyLocationButtonForMapView"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- !private ["So26NSExtensionRequestHandlingP", "init"]
+- ["So26NSExtensionRequestHandlingP", "locationManager"]
+- ["So26NSExtensionRequestHandlingP", "locationManagerDidPauseLocationUpdates"]
+- ["So26NSExtensionRequestHandlingP", "locationManagerDidResumeLocationUpdates"]
+- ["So26NSExtensionRequestHandlingP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So26NSExtensionRequestHandlingP", "mapView"]
+- ["So26NSExtensionRequestHandlingP", "mapViewDidFinishTileRendering"]
+- ["So26NSExtensionRequestHandlingP", "mapViewDidStartTileRendering"]
+- ["So26NSExtensionRequestHandlingP", "mapViewSnapshotReady"]
+- !private ["So26NSExtensionRequestHandlingP", "marker"]
+- !private ["So26NSExtensionRequestHandlingP", "viewDidLoad"]
+- !private ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "CLAuthorizationStatus"]
+- ["So8NSObjectC", "CLLocation"]
+- ["So8NSObjectC", "CLLocationCoordinate2D"]
+- ["So8NSObjectC", "CLLocationManager"]
+- !private ["So8NSObjectC", "GMSCameraPosition"]
+- ["So8NSObjectC", "GMSMapView"]
+- ["So8NSObjectC", "GMSMarker"]
+- !private ["So8NSObjectC", "camera"]
+- !private ["So8NSObjectC", "coordinate"]
+- !private ["So8NSObjectC", "delegate"]
+- ["So8NSObjectC", "didTapMyLocationButton"]
+- ["So8NSObjectC", "didTapMyLocationButtonForMapView"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "isDraggable"]
+- !private ["So8NSObjectC", "isMyLocationEnabled"]
+- ["So8NSObjectC", "locationManager"]
+- ["So8NSObjectC", "locationManagerDidPauseLocationUpdates"]
+- ["So8NSObjectC", "locationManagerDidResumeLocationUpdates"]
+- ["So8NSObjectC", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["So8NSObjectC", "map"]
+- ["So8NSObjectC", "mapView"]
+- ["So8NSObjectC", "mapViewDidFinishTileRendering"]
+- ["So8NSObjectC", "mapViewDidStartTileRendering"]
+- ["So8NSObjectC", "mapViewSnapshotReady"]
+- ["So8NSObjectC", "marker"]
+- !private ["So8NSObjectC", "myLocationButton"]
+- !private ["So8NSObjectC", "opacity"]
+- !private ["So8NSObjectC", "position"]
+- !private ["So8NSObjectC", "requestWhenInUseAuthorization"]
+- !private ["So8NSObjectC", "settings"]
+- ["So8NSObjectC", "showMarker"]
+- !private ["So8NSObjectC", "startUpdatingLocation"]
+- !private ["So8NSObjectC", "stopUpdatingLocation"]
+- ["So8NSObjectC", "viewDidLoad"]
+- ["So8NSObjectP", "CLLocationManager"]
+- !private ["So8NSObjectP", "GMSCameraPosition"]
+- ["So8NSObjectP", "GMSMarker"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "camera"]
+- !private ["So8NSObjectP", "coordinate"]
+- !private ["So8NSObjectP", "delegate"]
+- ["So8NSObjectP", "didTapMyLocationButton"]
+- ["So8NSObjectP", "didTapMyLocationButtonForMapView"]
+- ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "init"]
+- !private ["So8NSObjectP", "isDraggable"]
+- !private ["So8NSObjectP", "isMyLocationEnabled"]
+- ["So8NSObjectP", "locationManager"]
+- ["So8NSObjectP", "locationManagerDidPauseLocationUpdates"]
+- ["So8NSObjectP", "locationManagerDidResumeLocationUpdates"]
+- ["So8NSObjectP", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["So8NSObjectP", "map"]
+- ["So8NSObjectP", "mapView"]
+- ["So8NSObjectP", "mapViewDidFinishTileRendering"]
+- ["So8NSObjectP", "mapViewDidStartTileRendering"]
+- ["So8NSObjectP", "mapViewSnapshotReady"]
+- !private ["So8NSObjectP", "marker"]
+- !private ["So8NSObjectP", "myLocationButton"]
+- !private ["So8NSObjectP", "opacity"]
+- !private ["So8NSObjectP", "position"]
+- !private ["So8NSObjectP", "requestWhenInUseAuthorization"]
+- !private ["So8NSObjectP", "settings"]
+- !private ["So8NSObjectP", "startUpdatingLocation"]
+- !private ["So8NSObjectP", "stopUpdatingLocation"]
+- !private ["So8NSObjectP", "viewDidLoad"]
+- !private ["So14NSSecureCodingP", "coordinate"]
+- !private ["Sq", "camera"]
+- !private ["Sq", "isMyLocationEnabled"]
+- !private ["Sq", "settings"]
+- !private ["Sk", "first"]
+- !private ["Sm", "first"]
+- !private ["SY", "authorizedWhenInUse"]
+- !private ["ST", "first"]
+- !private ["So29UIAccessibilityIdentificationP", "camera"]
+- !private ["So29UIAccessibilityIdentificationP", "isMyLocationEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "settings"]
+- !private ["So12UIAppearanceP", "camera"]
+- !private ["So12UIAppearanceP", "isMyLocationEnabled"]
+- !private ["So12UIAppearanceP", "settings"]
+- ["So21UIAppearanceContainerP", "CLLocationManager"]
+- !private ["So21UIAppearanceContainerP", "GMSCameraPosition"]
+- ["So21UIAppearanceContainerP", "GMSMarker"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So21UIAppearanceContainerP", "camera"]
+- ["So21UIAppearanceContainerP", "didTapMyLocationButton"]
+- ["So21UIAppearanceContainerP", "didTapMyLocationButtonForMapView"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So21UIAppearanceContainerP", "isMyLocationEnabled"]
+- ["So21UIAppearanceContainerP", "locationManager"]
+- ["So21UIAppearanceContainerP", "locationManagerDidPauseLocationUpdates"]
+- ["So21UIAppearanceContainerP", "locationManagerDidResumeLocationUpdates"]
+- ["So21UIAppearanceContainerP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So21UIAppearanceContainerP", "mapView"]
+- ["So21UIAppearanceContainerP", "mapViewDidFinishTileRendering"]
+- ["So21UIAppearanceContainerP", "mapViewDidStartTileRendering"]
+- ["So21UIAppearanceContainerP", "mapViewSnapshotReady"]
+- !private ["So21UIAppearanceContainerP", "marker"]
+- !private ["So21UIAppearanceContainerP", "settings"]
+- !private ["So21UIAppearanceContainerP", "viewDidLoad"]
+- ["So18UIContentContainerP", "CLLocationManager"]
+- !private ["So18UIContentContainerP", "GMSCameraPosition"]
+- ["So18UIContentContainerP", "GMSMarker"]
+- ["So18UIContentContainerP", ""]
+- ["So18UIContentContainerP", "didTapMyLocationButton"]
+- ["So18UIContentContainerP", "didTapMyLocationButtonForMapView"]
+- !private ["So18UIContentContainerP", "init"]
+- !private ["So18UIContentContainerP", "init"]
+- ["So18UIContentContainerP", "locationManager"]
+- ["So18UIContentContainerP", "locationManagerDidPauseLocationUpdates"]
+- ["So18UIContentContainerP", "locationManagerDidResumeLocationUpdates"]
+- ["So18UIContentContainerP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So18UIContentContainerP", "mapView"]
+- ["So18UIContentContainerP", "mapViewDidFinishTileRendering"]
+- ["So18UIContentContainerP", "mapViewDidStartTileRendering"]
+- ["So18UIContentContainerP", "mapViewSnapshotReady"]
+- !private ["So18UIContentContainerP", "marker"]
+- !private ["So18UIContentContainerP", "viewDidLoad"]
+- !private ["So17UICoordinateSpaceP", "camera"]
+- !private ["So17UICoordinateSpaceP", "isMyLocationEnabled"]
+- !private ["So17UICoordinateSpaceP", "settings"]
+- !private ["So13UIDynamicItemP", "camera"]
+- !private ["So13UIDynamicItemP", "isMyLocationEnabled"]
+- !private ["So13UIDynamicItemP", "settings"]
+- ["So18UIFocusEnvironmentP", "CLLocationManager"]
+- !private ["So18UIFocusEnvironmentP", "GMSCameraPosition"]
+- ["So18UIFocusEnvironmentP", "GMSMarker"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So18UIFocusEnvironmentP", "camera"]
+- ["So18UIFocusEnvironmentP", "didTapMyLocationButton"]
+- ["So18UIFocusEnvironmentP", "didTapMyLocationButtonForMapView"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So18UIFocusEnvironmentP", "isMyLocationEnabled"]
+- ["So18UIFocusEnvironmentP", "locationManager"]
+- ["So18UIFocusEnvironmentP", "locationManagerDidPauseLocationUpdates"]
+- ["So18UIFocusEnvironmentP", "locationManagerDidResumeLocationUpdates"]
+- ["So18UIFocusEnvironmentP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So18UIFocusEnvironmentP", "mapView"]
+- ["So18UIFocusEnvironmentP", "mapViewDidFinishTileRendering"]
+- ["So18UIFocusEnvironmentP", "mapViewDidStartTileRendering"]
+- ["So18UIFocusEnvironmentP", "mapViewSnapshotReady"]
+- !private ["So18UIFocusEnvironmentP", "marker"]
+- !private ["So18UIFocusEnvironmentP", "settings"]
+- !private ["So18UIFocusEnvironmentP", "viewDidLoad"]
+- !private ["So11UIFocusItemP", "camera"]
+- !private ["So11UIFocusItemP", "isMyLocationEnabled"]
+- !private ["So11UIFocusItemP", "settings"]
+- !private ["So20UIFocusItemContainerP", "camera"]
+- !private ["So20UIFocusItemContainerP", "isMyLocationEnabled"]
+- !private ["So20UIFocusItemContainerP", "settings"]
+- ["So30UIPasteConfigurationSupportingP", "CLLocationManager"]
+- !private ["So30UIPasteConfigurationSupportingP", "GMSCameraPosition"]
+- ["So30UIPasteConfigurationSupportingP", "GMSMarker"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- !private ["So30UIPasteConfigurationSupportingP", "camera"]
+- ["So30UIPasteConfigurationSupportingP", "didTapMyLocationButton"]
+- ["So30UIPasteConfigurationSupportingP", "didTapMyLocationButtonForMapView"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "isMyLocationEnabled"]
+- ["So30UIPasteConfigurationSupportingP", "locationManager"]
+- ["So30UIPasteConfigurationSupportingP", "locationManagerDidPauseLocationUpdates"]
+- ["So30UIPasteConfigurationSupportingP", "locationManagerDidResumeLocationUpdates"]
+- ["So30UIPasteConfigurationSupportingP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So30UIPasteConfigurationSupportingP", "mapView"]
+- ["So30UIPasteConfigurationSupportingP", "mapViewDidFinishTileRendering"]
+- ["So30UIPasteConfigurationSupportingP", "mapViewDidStartTileRendering"]
+- ["So30UIPasteConfigurationSupportingP", "mapViewSnapshotReady"]
+- !private ["So30UIPasteConfigurationSupportingP", "marker"]
+- !private ["So30UIPasteConfigurationSupportingP", "settings"]
+- !private ["So30UIPasteConfigurationSupportingP", "viewDidLoad"]
+- ["So11UIResponderC", "CLAuthorizationStatus"]
+- ["So11UIResponderC", "CLLocation"]
+- ["So11UIResponderC", "CLLocationCoordinate2D"]
+- ["So11UIResponderC", "CLLocationManager"]
+- !private ["So11UIResponderC", "GMSCameraPosition"]
+- ["So11UIResponderC", "GMSMapView"]
+- ["So11UIResponderC", "GMSMarker"]
+- !private ["So11UIResponderC", "camera"]
+- ["So11UIResponderC", "didTapMyLocationButton"]
+- ["So11UIResponderC", "didTapMyLocationButtonForMapView"]
+- ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So11UIResponderC", "isMyLocationEnabled"]
+- ["So11UIResponderC", "locationManager"]
+- ["So11UIResponderC", "locationManagerDidPauseLocationUpdates"]
+- ["So11UIResponderC", "locationManagerDidResumeLocationUpdates"]
+- ["So11UIResponderC", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So11UIResponderC", "mapView"]
+- ["So11UIResponderC", "mapViewDidFinishTileRendering"]
+- ["So11UIResponderC", "mapViewDidStartTileRendering"]
+- ["So11UIResponderC", "mapViewSnapshotReady"]
+- ["So11UIResponderC", "marker"]
+- !private ["So11UIResponderC", "settings"]
+- ["So11UIResponderC", "showMarker"]
+- ["So11UIResponderC", "viewDidLoad"]
+- ["So30UIResponderStandardEditActionsP", "CLLocationManager"]
+- !private ["So30UIResponderStandardEditActionsP", "GMSCameraPosition"]
+- ["So30UIResponderStandardEditActionsP", "GMSMarker"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So30UIResponderStandardEditActionsP", "camera"]
+- ["So30UIResponderStandardEditActionsP", "didTapMyLocationButton"]
+- ["So30UIResponderStandardEditActionsP", "didTapMyLocationButtonForMapView"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "isMyLocationEnabled"]
+- ["So30UIResponderStandardEditActionsP", "locationManager"]
+- ["So30UIResponderStandardEditActionsP", "locationManagerDidPauseLocationUpdates"]
+- ["So30UIResponderStandardEditActionsP", "locationManagerDidResumeLocationUpdates"]
+- ["So30UIResponderStandardEditActionsP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So30UIResponderStandardEditActionsP", "mapView"]
+- ["So30UIResponderStandardEditActionsP", "mapViewDidFinishTileRendering"]
+- ["So30UIResponderStandardEditActionsP", "mapViewDidStartTileRendering"]
+- ["So30UIResponderStandardEditActionsP", "mapViewSnapshotReady"]
+- !private ["So30UIResponderStandardEditActionsP", "marker"]
+- !private ["So30UIResponderStandardEditActionsP", "settings"]
+- !private ["So30UIResponderStandardEditActionsP", "viewDidLoad"]
+- ["So16UIStateRestoringP", "CLLocationManager"]
+- !private ["So16UIStateRestoringP", "GMSCameraPosition"]
+- ["So16UIStateRestoringP", "GMSMarker"]
+- ["So16UIStateRestoringP", ""]
+- ["So16UIStateRestoringP", "didTapMyLocationButton"]
+- ["So16UIStateRestoringP", "didTapMyLocationButtonForMapView"]
+- !private ["So16UIStateRestoringP", "init"]
+- !private ["So16UIStateRestoringP", "init"]
+- ["So16UIStateRestoringP", "locationManager"]
+- ["So16UIStateRestoringP", "locationManagerDidPauseLocationUpdates"]
+- ["So16UIStateRestoringP", "locationManagerDidResumeLocationUpdates"]
+- ["So16UIStateRestoringP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So16UIStateRestoringP", "mapView"]
+- ["So16UIStateRestoringP", "mapViewDidFinishTileRendering"]
+- ["So16UIStateRestoringP", "mapViewDidStartTileRendering"]
+- ["So16UIStateRestoringP", "mapViewSnapshotReady"]
+- !private ["So16UIStateRestoringP", "marker"]
+- !private ["So16UIStateRestoringP", "viewDidLoad"]
+- ["So18UITraitEnvironmentP", "CLLocationManager"]
+- !private ["So18UITraitEnvironmentP", "GMSCameraPosition"]
+- ["So18UITraitEnvironmentP", "GMSMarker"]
+- ["So18UITraitEnvironmentP", ""]
+- !private ["So18UITraitEnvironmentP", "camera"]
+- ["So18UITraitEnvironmentP", "didTapMyLocationButton"]
+- ["So18UITraitEnvironmentP", "didTapMyLocationButtonForMapView"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So18UITraitEnvironmentP", "isMyLocationEnabled"]
+- ["So18UITraitEnvironmentP", "locationManager"]
+- ["So18UITraitEnvironmentP", "locationManagerDidPauseLocationUpdates"]
+- ["So18UITraitEnvironmentP", "locationManagerDidResumeLocationUpdates"]
+- ["So18UITraitEnvironmentP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So18UITraitEnvironmentP", "mapView"]
+- ["So18UITraitEnvironmentP", "mapViewDidFinishTileRendering"]
+- ["So18UITraitEnvironmentP", "mapViewDidStartTileRendering"]
+- ["So18UITraitEnvironmentP", "mapViewSnapshotReady"]
+- !private ["So18UITraitEnvironmentP", "marker"]
+- !private ["So18UITraitEnvironmentP", "settings"]
+- !private ["So18UITraitEnvironmentP", "viewDidLoad"]
+- ["So23UIUserActivityRestoringP", "CLLocationManager"]
+- !private ["So23UIUserActivityRestoringP", "GMSCameraPosition"]
+- ["So23UIUserActivityRestoringP", "GMSMarker"]
+- ["So23UIUserActivityRestoringP", ""]
+- !private ["So23UIUserActivityRestoringP", "camera"]
+- ["So23UIUserActivityRestoringP", "didTapMyLocationButton"]
+- ["So23UIUserActivityRestoringP", "didTapMyLocationButtonForMapView"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "init"]
+- !private ["So23UIUserActivityRestoringP", "isMyLocationEnabled"]
+- ["So23UIUserActivityRestoringP", "locationManager"]
+- ["So23UIUserActivityRestoringP", "locationManagerDidPauseLocationUpdates"]
+- ["So23UIUserActivityRestoringP", "locationManagerDidResumeLocationUpdates"]
+- ["So23UIUserActivityRestoringP", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So23UIUserActivityRestoringP", "mapView"]
+- ["So23UIUserActivityRestoringP", "mapViewDidFinishTileRendering"]
+- ["So23UIUserActivityRestoringP", "mapViewDidStartTileRendering"]
+- ["So23UIUserActivityRestoringP", "mapViewSnapshotReady"]
+- !private ["So23UIUserActivityRestoringP", "marker"]
+- !private ["So23UIUserActivityRestoringP", "settings"]
+- !private ["So23UIUserActivityRestoringP", "viewDidLoad"]
+- !private ["So6UIViewC", "camera"]
+- !private ["So6UIViewC", "isMyLocationEnabled"]
+- !private ["So6UIViewC", "settings"]
+- ["So16UIViewControllerC", "CLAuthorizationStatus"]
+- ["So16UIViewControllerC", "CLLocation"]
+- ["So16UIViewControllerC", "CLLocationCoordinate2D"]
+- ["So16UIViewControllerC", "CLLocationManager"]
+- !private ["So16UIViewControllerC", "GMSCameraPosition"]
+- ["So16UIViewControllerC", "GMSMapView"]
+- ["So16UIViewControllerC", "GMSMarker"]
+- ["So16UIViewControllerC", ""]
+- ["So16UIViewControllerC", "didTapMyLocationButton"]
+- ["So16UIViewControllerC", "didTapMyLocationButtonForMapView"]
+- ["So16UIViewControllerC", "init"]
+- !private ["So16UIViewControllerC", "init"]
+- ["So16UIViewControllerC", "locationManager"]
+- ["So16UIViewControllerC", "locationManagerDidPauseLocationUpdates"]
+- ["So16UIViewControllerC", "locationManagerDidResumeLocationUpdates"]
+- ["So16UIViewControllerC", "locationManagerShouldDisplayHeadingCalibration"]
+- ["So16UIViewControllerC", "mapView"]
+- ["So16UIViewControllerC", "mapViewDidFinishTileRendering"]
+- ["So16UIViewControllerC", "mapViewDidStartTileRendering"]
+- ["So16UIViewControllerC", "mapViewSnapshotReady"]
+- ["So16UIViewControllerC", "marker"]
+- ["So16UIViewControllerC", "showMarker"]
+- ["So16UIViewControllerC", "viewDidLoad"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "camera"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "isMyLocationEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "settings"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "CLLocationManager"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "GMSCameraPosition"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "GMSMarker"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "camera"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "coordinate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "delegate"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "didTapMyLocationButton"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "didTapMyLocationButtonForMapView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isDraggable"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "isMyLocationEnabled"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "locationManager"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "locationManagerDidPauseLocationUpdates"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "locationManagerDidResumeLocationUpdates"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "locationManagerShouldDisplayHeadingCalibration"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "map"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "mapView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "mapViewDidFinishTileRendering"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "mapViewDidStartTileRendering"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "mapViewSnapshotReady"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "marker"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "myLocationButton"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "opacity"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "position"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "requestWhenInUseAuthorization"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "settings"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "startUpdatingLocation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "stopUpdatingLocation"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "viewDidLoad"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "camera"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "isMyLocationEnabled"]
+- !private ["s21_ObjectiveCBridgeableP", "settings"]
+depends-nominal:
+- !private "Sa"
+- !private "s13ArrayProtocolP"
+- !private "SK"
+- !private "Sb"
+- !private "So15CALayerDelegateP"
+- !private "So21CLAuthorizationStatusV"
+- !private "So10CLLocationC"
+- "So17CLLocationManagerC"
+- "So25CLLocationManagerDelegateP"
+- "s7CVarArgP"
+- !private "Sl"
+- "s28CustomDebugStringConvertibleP"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- !private "So17GMSCameraPositionC"
+- !private "So10GMSMapViewC"
+- "So18GMSMapViewDelegateP"
+- "So9GMSMarkerC"
+- "So10GMSOverlayC"
+- !private "So13GMSUISettingsC"
+- "SH"
+- !private "s25LosslessStringConvertibleP"
+- "11BackPackApp17MapViewControllerC"
+- !private "SM"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So26NSExtensionRequestHandlingP"
+- !private "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "Sq"
+- !private "Sk"
+- !private "Sm"
+- !private "SY"
+- !private "ST"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So16UIStateRestoringP"
+- "So18UITraitEnvironmentP"
+- "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- "So16UIViewControllerC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreLocation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FIRInstanceID.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Headers/FirebaseInstanceID.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore-umbrella.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase-umbrella.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth-umbrella.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanorama.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCamera.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRMutableData.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserMetadata.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaService.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseReference.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaSource.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCircle.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapStyle.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolyline.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthAPNSTokenType.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataEventType.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FirebaseCore.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GoogleMapsBase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FirebaseDatabase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraUpdate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaCameraUpdate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthUIDelegate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRServerValue.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorBuilding.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPath.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMutablePath.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuth.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuth.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLink.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthCredential.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthCredential.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRLoggerLevel.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorLevel.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPolygon.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FirebaseAuthVersion.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView+Animation.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRConfiguration.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRAnalyticsConfiguration.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOrientation.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSProjection.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCameraPosition.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUserInfo.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAdditionalUserInfo.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIRApp.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIROAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGitHubAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRGoogleAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRPhoneAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRFacebookAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIREmailAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRTwitterAuthProvider.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeocoder.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarker.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRUser.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCALayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSURLTileLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSTileLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSSyncTileLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMarkerLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlayLayer.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCoordinateBounds.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSServices.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSUISettings.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRActionCodeSettings.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthSettings.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGeometryUtils.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Headers/FIROptions.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSDeprecationMacros.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Headers/GMSCompatabilityMacros.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSCoordinateBounds+GoogleMaps.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GoogleMaps.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthErrors.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSAddress.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthDataResult.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Headers/FIRAuthTokenResult.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRTransactionResult.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDataSnapshot.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalyticsSwiftNameSupport.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSPanoramaView.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSMapView.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSIndoorDisplay.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSOverlay.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Headers/GMSGroundOverlay.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Headers/FIRDatabaseQuery.h"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseInstanceID/Frameworks/FirebaseInstanceID.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseCore/FirebaseCore.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Base/Frameworks/GoogleMapsBase.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseDatabase/FirebaseDatabase.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Products/Debug-iphonesimulator/FirebaseAuth/FirebaseAuth.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/GoogleMaps/Maps/Frameworks/GoogleMaps.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.1.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "794a80a0e550b384ceaf6b822fbd0a09"

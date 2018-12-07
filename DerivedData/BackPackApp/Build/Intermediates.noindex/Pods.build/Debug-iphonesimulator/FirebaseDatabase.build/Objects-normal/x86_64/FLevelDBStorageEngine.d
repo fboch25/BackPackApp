@@ -1,0 +1,31 @@
+dependencies: \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.m \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseDatabase.build/module.modulemap \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Persistence/FLevelDBStorageEngine.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Persistence/FStorageEngine.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FNode.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Core/Utilities/FPath.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Api/Private/FTypedefs_Private.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FCompoundWrite.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Core/FQuerySpec.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Core/FQueryParams.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/FIndex.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/DerivedData/BackPackApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseCore.build/module.modulemap \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Private/FIRLogger.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIROptions.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FirebaseCore.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRLoggerLevel.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRConfiguration.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRApp.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseCore/Firebase/Core/Public/FIRAnalyticsConfiguration.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/Target\ Support\ Files/FirebaseCore/FirebaseCore-umbrella.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/third_party/Wrap-leveldb/APLevelDB.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FSnapshotUtilities.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Core/FWriteRecord.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Persistence/FTrackedQuery.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Snapshot/FEmptyNode.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPruneForest.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Utilities/FUtilities.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Utilities/FParsedUrl.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Core/FRepoInfo.h \
+  /Users/Mrbochiballs1/Develop/Software/Software/BackPackApp/Pods/FirebaseDatabase/Firebase/Database/Persistence/FPendingPut.h
